@@ -4,3 +4,10 @@ numpy
 matplotlib
 seaborn
 jupyter
+pyspark==3.5.3
+pyarrow
+folium
+scikit-learn
+joblib
+streamlit
+plotly
