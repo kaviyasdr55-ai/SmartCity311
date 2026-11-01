@@ -1,0 +1,16 @@
+{
+    "features": [
+        "agency",
+        "agency_name",
+        "complaint_type",
+        "borough",
+        "complaint_hour",
+        "complaint_weekday",
+        "complaint_month"
+    ],
+    "target": "is_delayed",
+    "target_definition": "resolution_hours > 24",
+    "best_model": "Random Forest",
+    "threshold_hours": 24,
+    "note": "24-hour threshold is project-defined, not an official NYC SLA."
+}

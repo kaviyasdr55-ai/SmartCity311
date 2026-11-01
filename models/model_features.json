@@ -1,0 +1,15 @@
+{
+    "categorical": [
+        "agency",
+        "agency_name",
+        "complaint_type",
+        "borough"
+    ],
+    "numeric": [
+        "created_hour",
+        "created_weekday",
+        "created_month"
+    ],
+    "target": "resolution_hours",
+    "best_model": "Random Forest"
+}

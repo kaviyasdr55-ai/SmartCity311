@@ -1,0 +1,12 @@
+agency_name,closed_sample_count,average_resolution_hours,median_resolution_hours,p90_resolution_hours
+Department of Health and Mental Hygiene,513,64.93,52.52,127.04
+Department of Housing Preservation and Development,11281,60.97,56.92,106.91
+Taxi and Limousine Commission,119,59.78,64.39,101.1
+Department of Consumer and Worker Protection,190,43.78,24.92,92.43
+Department of Sanitation,5786,40.49,29.28,94.86
+Department of Parks and Recreation,475,38.97,24.11,95.62
+Department of Transportation,2792,34.92,18.13,104.13
+Department of Environmental Protection,3586,29.78,17.13,93.33
+Department of Buildings,2771,10.2,0.0,34.1
+Department of Homeless Services,2426,7.57,4.2,18.06
+New York City Police Department,42566,2.52,1.27,6.19
